@@ -1,2 +1,2 @@
-# quick-references
-Quick references and notes to self on various topics
+# Quick References
+Quick references and notes to self on various topics.
